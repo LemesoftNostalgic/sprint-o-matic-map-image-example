@@ -1,0 +1,1 @@
+This repository contains an example pair of images: a sprint orienteering image and a derived equally sized png image that contains colouring of the following features: forbidden areas, slow areas, and good candidates for the controls.
