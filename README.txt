@@ -1,7 +1,7 @@
 This repository contains three example pairs of images:
  - a real sprint orienteering map image and derived equally sized lookup.png image
  - an artistic sprint orienteering map image and derived equally sized fantasylookup.png
- - a forest sorienteering map image and derived equally sized bygholm-lookup.png
+ - a forest orienteering map image and derived equally sized bygholm-lookup.png
 
 The lookup.png/fantasylookup.png images contain colouring of the following features:
   - forbidden areas, slow areas, and good candidates for the controls.
